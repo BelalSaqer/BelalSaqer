@@ -17,6 +17,7 @@ Flutter Developer | Mobile Application Developer | Computer Science Graduate
 ## Featured Project
 🏭 **Digital Twin for Industrial Machines** — Graduation Project
 Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM + SHAP), and MQTT streaming. Co-authored a published research paper on the architecture.
+[View Project →](https://github.com/BelalSaqer/DigitalTwin_For_Industrial_Machines)
 
 ## Let's Connect
 LinkedIn: https://www.linkedin.com/in/belalsaqer | Belal7saqer@outlook.com
