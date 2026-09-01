@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Belal 👋
 
-<!--
-**BelalSaqer/BelalSaqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer | Mobile Application Developer | Computer Science Graduate
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 CS Graduate from Misr University for Science and Technology (2026)
+- 📱 Specialized in cross-platform mobile development with Flutter
+- 🔬 Co-author of a published research paper on Edge AI & Digital Twin systems
+- 🌍 Based in Cairo, Egypt | Open to relocation (Saudi Arabia/Gulf) & Remote work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** Dart, Python, C++, Java
+**Mobile:** Flutter, Provider, Bloc/Cubit, Firebase
+**Backend/Integration:** REST APIs, FastAPI, MQTT
+**Tools:** Git, Android Studio, VS Code, Figma
+
+## Featured Project
+🏭 **Digital Twin for Industrial Machines** — Graduation Project
+Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM + SHAP), and MQTT streaming. Co-authored a published research paper on the architecture.
+
+## Let's Connect
+LinkedIn: https://www.linkedin.com/in/belalsaqer | Belal7saqer@outlook.com
