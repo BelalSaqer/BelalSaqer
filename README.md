@@ -1,4 +1,4 @@
-# Hi, I'm Belal 👋
+# Hello, I'm Belal 👋
 
 Flutter Developer | Mobile Application Developer | Computer Science Graduate
 
