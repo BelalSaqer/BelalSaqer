@@ -14,10 +14,15 @@ Flutter Developer | Mobile Application Developer | Computer Science Graduate
 **Backend/Integration:** REST APIs, FastAPI, MQTT
 **Tools:** Git, Android Studio, VS Code, Figma
 
-## Featured Project
+## Featured Projects
+
 🏭 **Digital Twin for Industrial Machines** — Graduation Project
 Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM + SHAP), and MQTT streaming. Co-authored a published research paper on the architecture.
 [View Project →](https://github.com/BelalSaqer/DigitalTwin_For_Industrial_Machines)
+
+🪐 **Solar System Visualization** — Personal Project
+Interactive cross-platform solar system explorer with a hand-rolled 2D pseudo-3D renderer, live NASA data, and an AI astronomy chat assistant backed by Cloudflare Workers AI.
+[View Project →](https://github.com/BelalSaqer/Solar-System-Visualization) | [Live Demo →](https://solar-system-3d-viz.web.app)
 
 ## Let's Connect
 LinkedIn: https://www.linkedin.com/in/belalsaqer | Belal7saqer@outlook.com
