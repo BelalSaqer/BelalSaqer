@@ -23,7 +23,7 @@ Flutter Developer | Mobile Application Developer | Computer Science Graduate
 
 🏭 **Digital Twin for Industrial Machines** — Graduation Project
 Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM + SHAP), and MQTT streaming. Development & Integration Lead on a team of 5.
-[View Project →](https://github.com/BelalSaqer/DigitalTwin_For_Industrial_Machines) | [Read Published Paper (DOI) →](https://doi.org/10.5281/zenodo.22540660)
+[View Project →](https://github.com/BelalSaqer/DigitalTwin_For_Industrial_Machines) | [Project Showcase →](https://digital-twin-showcase-belals.web.app/) | [Read Published Paper (DOI) →](https://doi.org/10.5281/zenodo.22540660)
 
 🪐 **Solar System Visualization** — Personal Project
 Interactive cross-platform solar system explorer with a hand-rolled 2D pseudo-3D renderer, live NASA data, and an AI astronomy chat assistant backed by Cloudflare Workers AI.
