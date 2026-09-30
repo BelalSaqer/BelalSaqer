@@ -27,7 +27,7 @@ Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM +
 
 🪐 **Solar System Visualization** — Personal Project
 Interactive cross-platform solar system explorer with a hand-rolled 2D pseudo-3D renderer, live NASA data, and an AI astronomy chat assistant backed by Cloudflare Workers AI.
-[View Project →](https://github.com/BelalSaqer/Solar-System-Visualization) | [Live Demo](https://solar-system-3d-viz.web.app)
+[View Project](https://github.com/BelalSaqer/Solar-System-Visualization) | [Live Demo](https://solar-system-3d-viz.web.app)
 
 🗂️ **FlowBoard** — Real-Time Collaborative Task Board
 Trello-style Kanban app with genuine real-time sync, live presence, and conflict detection — all backed by real Firestore listeners, not simulated. Full membership/role system enforced server-side via Security Rules, CSV import/export, @mentions, AI-assisted task breakdown, and a formal Playwright E2E test suite. Built end-to-end including three rounds of manual code review.
