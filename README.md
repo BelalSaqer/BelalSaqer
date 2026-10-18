@@ -10,7 +10,7 @@ Flutter Developer | Computer Science Graduate
 - 💼 Delivered 75+ freelance Flutter projects for international clients
 - 🥈 Silver Medal — Huawei ICT Competition
 - 🏅 Top Achiever — Flutter Development Diploma, Route Academy
-- 🌍 Currently in Saudi Arabia | Open to Gulf Region & Remote opportunities
+- 🌍 Based in Saudi Arabia | Open to On-site & Remote Roles Worldwide
 
 ## Tech Stack
 
