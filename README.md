@@ -14,8 +14,8 @@ Flutter Developer | Computer Science Graduate
 
 ## Tech Stack
 
-**Languages:** Dart, Python, C++, Java
-**Mobile:** Flutter, Provider, Riverpod, Bloc/Cubit, Firebase, REST API Integration, Local Storage (SQLite, Hive), Localization
+**Languages:** Dart, Python, C++, Java, C#
+**Mobile:** Flutter, Riverpod, Bloc/Cubit, Provider, Firebase, REST APIs, Local Storage (SQLite, Hive), Localization
 **Backend/Integration:** FastAPI, MQTT, JSON Data Pipelines
 **AI Integration:** TensorFlow Lite, SHAP Explainability, Edge AI, Google Gemini API
 **Tools:** Git & GitHub, Android Studio, VS Code, Figma, Notion
