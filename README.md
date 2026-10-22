@@ -9,7 +9,6 @@ Flutter Developer | Computer Science Graduate
 - 🔬 Co-author of a [published research paper](https://doi.org/10.5281/zenodo.22540660) on Edge AI & Digital Twin systems
 - 💼 Delivered 75+ freelance Flutter projects for international clients
 - 🥈 Silver Medal — Huawei ICT Competition
-- 🏅 Top Achiever — Flutter Development Diploma, Route Academy
 - 🌍 Based in Saudi Arabia | Open to On-site & Remote Roles Worldwide
 
 ## Tech Stack
