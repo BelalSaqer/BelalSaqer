@@ -7,14 +7,14 @@ Flutter Developer | Computer Science Graduate
 - 🎓 CS Graduate from Misr University for Science and Technology (2026)
 - 📱 Specialized in cross-platform mobile development with Flutter
 - 🔬 Co-author of a [published research paper](https://doi.org/10.5281/zenodo.22540660) on Edge AI & Digital Twin systems
-- 💼 Delivered 75+ freelance Flutter projects for international clients
+- 💼 3 years of freelancing — 75+ Flutter projects delivered for international clients
 - 🥈 Silver Medal — Huawei ICT Competition
 - 🌍 Based in Saudi Arabia | Open to On-site & Remote Roles Worldwide
 
 ## Tech Stack
 
 **Languages:** Dart, Python, C++, Java, C#
-**Mobile:** Flutter, Riverpod, Bloc/Cubit, Provider, Firebase, REST APIs, Local Storage (SQLite, Hive), Localization
+**Mobile:** Flutter, Riverpod, Bloc/Cubit, Provider, Firebase, REST APIs, Local Storage (SQLite, Hive), Arabic/RTL Localization
 **Backend/Integration:** FastAPI, MQTT, JSON Data Pipelines
 **AI Integration:** TensorFlow Lite, SHAP Explainability, Edge AI, Google Gemini API
 **Tools:** Git & GitHub, Android Studio, VS Code, Figma, Notion
@@ -23,7 +23,7 @@ Flutter Developer | Computer Science Graduate
 
 ### 🏭 Digital Twin for Industrial Machines — Graduation Project
 
-Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM + SHAP), and MQTT streaming. Development & Integration Lead on a team of 5.
+Real-time factory monitoring system combining Flutter, Firebase, Edge AI (LSTM + SHAP), and MQTT streaming. Development & Integration Lead on a team of 5. Graded A*.
 
 [Repository](https://github.com/BelalSaqer/DigitalTwin_For_Industrial_Machines) · [Showcase](https://digital-twin-showcase-belals.web.app/) · [Published Paper (DOI)](https://doi.org/10.5281/zenodo.22540660)
 
